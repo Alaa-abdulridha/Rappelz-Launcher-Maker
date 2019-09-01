@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^launcher\.rappelz\.co$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.launcher\.rappelz\.co$
+RewriteRule ^/?$ "http\:\/\/launcher\.rappelz\.co" [R=301,L]
+

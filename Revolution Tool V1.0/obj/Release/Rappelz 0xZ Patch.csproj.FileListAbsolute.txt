@@ -1,0 +1,15 @@
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Release\Rappelz 0xZ Patch.exe.config
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Rappelz 0xZ Patch.csproj.ResolveComReference.cache
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Release\Rappelz 0xZ Patch.exe
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Release\Rappelz 0xZ Patch.pdb
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Release\Ionic.Zip.dll
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Release\IPManager.dll
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Revolution_Tool_V1._0.AlaaAbout.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Revolution_Tool_V1._0.Arguments.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Revolution_Tool_V1._0.Properties.Resources.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Revolution_Tool_V1._0.AlaaTool.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Revolution_Tool_V1._0.AlaaLaunTool.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Rappelz 0xZ Patch.csproj.GenerateResource.Cache
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Rappelz 0xZ Patch.exe
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Release\Rappelz 0xZ Patch.pdb

@@ -1,0 +1,71 @@
+﻿@charset "utf-8";
+
+img {border:none;}
+body {background:url(img/bgfull.png) ;}
+a {position: relative; font-family:Tahoma, Arial, Helvetica, sans-serif; font-size:12px;}
+a, a:link, a:visited, a:active {text-decoration:none;}
+a:hover {color:#cc66cc; text-decoration:underline;}
+
+/*Ghost Informatics/Revolution Team*/
+/* Layout */
+* {margin:0; padding:0; font:11px dotum; color:#d7d7d7; line-height:130%;}
+#wrap {width:721px;height:450px;background:url(img/black_bg.jpg) no-repeat scroll 0 22px transparent;}
+#header {width:100%;}
+#container {width:100%;}
+#footer {width:100%;}
+.clear {display:block; float:none; clear:both; height:0; width:100%; font-size:0 !important; line-height:0 !important; overflow:hidden; margin:0 !important; padding:0 !important;}
+
+/* Header */
+#header {position:relative; background:url(img/bg_head.jpg) no-repeat; height:22px;}
+#header ul.version {display:inline; float:left; margin:7px 0 0 10px; }/*كلينت+سيرف فيرجن*/
+#header ul.version li {display:inline; float:left; margin:0 5px 0 0; padding:0;}/*كلينت+سيرف فيرجن*/
+#header ul.window {display:inline; float:right; margin:45px 9px 0 0; overflow:hidden;} /*اغلاق وفتح النافذة*/
+#header ul.window li {display:inline; float:left; margin:0 4px 0 0; padding:0; font:0/0 ??;}
+
+
+/* Container */
+#container {position:relative; height:408px;}
+#container ul.home {display:inline; float:left; margin:-87px 0 0 80px; overflow:hidden;}
+#container ul.home li {display:inline; float:left; margin:0 4px 0 0; padding:0; font:0/0 ??;}
+#container .banner {height:166px; padding-top:100px; text-align:center;}
+#news {background:url(img/bg_news.png) no-repeat; height:109px; width:662px; margin:0 30px 0 30px;
+		_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='img/bg_news.png', sizingMethod='crop');}
+		
+
+#news .update {float:right; margin:13px 40px 0 0; width:270px; }
+#news .notice .list td,
+#news .update .list td {padding:2px 0; width:290px;}
+#news .notice .list th,
+#news .update .list th {padding:0 0 5px 0; text-align:center; font-size:24px;}
+#news .notice .list th img {margin-right:40px;}
+#news .update .list th img {margin-left:30px;}
+#news .notice .list td img {margin-left:5px;}
+#news .update .list td img {margin-right:5px;}
+/*Ghost Informatics/Revolution Team*/
+/* Footer */
+#footer {position:relative; background:url(img/bg_btm.jpg) no-repeat; height:70px;}
+/* logo */
+#logo {position:absolute; z-index:10; top:-25px;width:220px; height:132px; text-align:center; left:250px;}
+#khroo {position:absolute; z-index:20; left:510px; top:20px; width:200px; height:80px;}
+#notes {position:absolute; z-index:20; left:0px; top:25px; width:300px; height:150px;}
+/* Game Client data */
+#FILENAME,
+#PERCENTAGE_2,
+#MESSAGE {font:11px dotum; color:#474747;} 
+
+#LAUNCHER_VERSION,
+#CLIENT_VERSION {font:9px verdana; color:#474747;}
+/*Ghost Informatics/Revolution Team*/
+#MESSAGE,
+#FILENAME {overflow:hidden; position:absolute; z-index:1; left:16px; top:40px; width:400px; height:16px;}
+
+#PERCENTAGE_2 {position:absolute; z-index:1; left:500px; top:40px; width:70px; height:16px; text-align:right;}
+/*Ghost Informatics/Revolution Team*/
+#START_BUTTON,
+#LAUNCH_BUTTON {position:absolute; z-index:1; left:590px; top:0; width:112px; height:43px;}
+
+#PROGRESS2 {overflow:hidden; position:absolute; z-index:1; left:16px; top:15px; width:557px; height:15px;}
+
+#WINDOWMODECHK,
+#WINDOWMODEOFF {position:absolute; z-index:1; left:555px;height:22px; top:308px;}
+

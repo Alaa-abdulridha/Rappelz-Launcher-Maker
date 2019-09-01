@@ -1,0 +1,212 @@
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe.config
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.pdb
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csprojResolveAssemblyReference.cache
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.resources
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.resources
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Properties.Resources.resources
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.GenerateResource.Cache
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.exe
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.pdb
+c:\users\grimreaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestLink.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-US\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-US\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\af\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.af.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\af\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.en-US.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.en-US.resources
+C:\Users\GrimReaper\documents\visual studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.ResolveComReference.cache
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-GB\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-GB.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-GB\Revolution Tool V1.0.resources.dll
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Welcome.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.en-US.resources
+C:\Users\GrimReaper\Documents\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe.config
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.ResolveComReference.cache
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.exe
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.pdb
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.pdb
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-US\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\af\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-GB\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Properties.Resources.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Welcome.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.af.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-GB.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-US\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\af\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-GB\Revolution Tool V1.0.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\RdbManager.dll
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\RdbManager.pdb
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Revo_RDBManager.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Revo_RDBManager.en-US.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Full_Resource.resources
+E:\Projects\Visual Studio 2012\Projects\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Full_Resource.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-US\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.exe
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.pdb
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.ResolveComReference.cache
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Full_Resource.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Properties.Resources.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.RevoBatLan.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.RevoLauncherP.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Revo_RDBManager.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Welcome.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.About.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AccountManage.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoMarket.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AddtoWarehouse.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Admin_Tool.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.AutoBackup.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Connection.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.DeleteedCharacters.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Directories.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.ExportMarket.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.af.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Form1.en.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Full_Resource.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.GuildMembers.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.MarketEdit.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NpcAdd.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-GB.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.NPC_Lua.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Permissions.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PlayerWarehouse.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Price.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.PunishedGuildMembers.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.QuestAdd.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Revo_RDBManager.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.SubMenu.en-US.resources
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.GenerateResource.Cache
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe.config
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.pdb
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-US\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\af\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\en-GB\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\af\Revolution Tool V1.0.resources.dll
+C:\Users\Alaasabri\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\en-GB\Revolution Tool V1.0.resources.dll
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe.config
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.ResolveComReference.cache
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.exe
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.pdb
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csprojResolveAssemblyReference.cache
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.Properties.Resources.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.RevoBatLan.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution_Tool_V1._0.RevoLauncherP.resources
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\obj\Debug\Revolution Tool V1.0.csproj.GenerateResource.Cache
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.exe
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Revolution Tool V1.0.pdb
+C:\Users\steel\Desktop\Revolution Tool V1.0\Revolution Tool V1.0\Revolution Tool V1.0\bin\Debug\Rappelz 0xZ Patch.exe.config
