@@ -1,4 +1,4 @@
-# Ursulita Project
+# Rappelz Launcher Maker
 **Tested on**: Windwos xp/7/8/8.1/10
 
 **Tags**:C#, Rappelz, Launcher, game, server, RevolutionTeam
@@ -26,7 +26,7 @@ This is new tools that released for first time .. this tools can help you to mak
 
 Download the patch_bin and unrar it put it to your root server .. open port **3516** in your server firewall .  
 **\Patch_bin\PatchInfo\ServerResource\Default.tpf** this file contain the web update server with the Appname that you will put in the launcher (**RZ_ME** for arabic) .  
-Download Tools.rar that contain the patching tools **Rappelz 0xZ** Patch this tool is making the launcher (exe updater) launcher .  
+ **Rappelz 0xZ** Patch this tool is making the launcher (exe updater) launcher .  
   
 PatchManager this tool is the tool that made the TPF files for the patch_bin and hashing the resource files .  
   
